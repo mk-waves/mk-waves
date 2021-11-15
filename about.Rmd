@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Making Waves
 
-Marie  
+Marie Rivers  
 Jake  
 Cullen  
 
