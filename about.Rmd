@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Marie Rivers  
 Jake  
-Cullen  
+- [Cullen Molitor](https://github.com/cullen-molitor) 
 
 ## CDIP Buoy Data
