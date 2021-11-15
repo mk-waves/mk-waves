@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Making Waves
 
-Marie Rivers  
+- [Marie Rivers](https://github.com/marierivers)  
 Jake  
 Cullen  
 
