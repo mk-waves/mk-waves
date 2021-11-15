@@ -10,7 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 # Making Waves
 
 Marie Rivers  
+<<<<<<< HEAD
 - [Jake Eisaguirre](https://github.com/Jake-Eisaguirre)
 Cullen  
+=======
+Jake  
+- [Cullen Molitor](https://github.com/cullen-molitor) 
+>>>>>>> 181deaf3955850a9609b857f64362bcc0f79b158
 
 ## CDIP Buoy Data
